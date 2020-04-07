@@ -5,3 +5,6 @@
 	path = public
 	url = git@github.com:h0m35t4r/russell.github.io.git
 	branch = master
+[submodule "themes/themes/forty"]
+	path = themes/themes/forty
+	url = https://github.com/MarcusVirg/forty.git
