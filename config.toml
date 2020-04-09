@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Riccardo Russell"
+title = "Riccardo Russell Lighting Design"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -82,7 +82,7 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Hi, my name is Riccardo"
-    subtitle = "I am a lighting programmer and designer based in London"
+    subtitle = "I am a lighting designer and programmer based in London"
     buttonText = "Show me the stuff"
 
 
