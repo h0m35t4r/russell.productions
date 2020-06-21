@@ -8,3 +8,9 @@
 [submodule "themes/themes/forty"]
 	path = themes/themes/forty
 	url = https://github.com/MarcusVirg/forty.git
+[submodule "themes/forty"]
+	path = themes/forty
+	url = https://github.com/MarcusVirg/forty
+[submodule "themes/codex"]
+	path = themes/codex
+	url = https://github.com/jakewies/hugo-theme-codex.git
