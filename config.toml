@@ -1,6 +1,6 @@
 # Override these settings with your own
 languageCode = "en-us"
-baseURL = "https://example.org/"
+baseURL = "https://h0m35t4r.github.io/"
 copyright = "© {year}"
 
 # The value "hugo-theme-codex" is only to get the exampleSite
@@ -9,14 +9,8 @@ copyright = "© {year}"
 # added the theme using the name "codex".
 theme = "codex"
 
-# REMOVE THIS!
-# This is only to get the exampleSite to work in this repo.
-#themesDir = "../../"
-
 # Optional params
 [params]
-  # Show Twitter icon linking to twitter.com/your-twitter-handle
-  twitter = "your-twitter-handle" # omit @
   # Show Github icon linking to github.com/your-github-handle
   github = "h0m35t4r" # omit @
 
